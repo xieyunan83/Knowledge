@@ -1,0 +1,16 @@
+[
+  {
+    "username": "admin",
+    "password": "315114",
+    "role": "admin",
+    "isFirstLogin": false,
+    "createdAt": 1770867820620
+  },
+  {
+    "username": "kevin",
+    "password": "315114",
+    "role": "user",
+    "isFirstLogin": true,
+    "createdAt": 1770868017773
+  }
+]
