@@ -22,9 +22,16 @@
   },
   {
     "id": "1770877731788",
-    "apiKey": "",
-    "baseUrl": "",
-    "modelId": "gemini-1.5-pro",
-    "taskAssignment": "default"
+    "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
+    "baseUrl": "https://hiapi.online/v1",
+    "modelId": "gemini-3-flash-preview",
+    "taskAssignment": "keywords"
+  },
+  {
+    "id": "1770877747161",
+    "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
+    "baseUrl": "https://hiapi.online/v1",
+    "modelId": "gemini-3-flash-preview",
+    "taskAssignment": "chat"
   }
 ]
