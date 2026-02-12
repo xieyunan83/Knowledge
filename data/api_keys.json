@@ -1,16 +1,16 @@
 [
   {
+    "id": "1769404700103",
+    "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
+    "baseUrl": "https://hiapi.online/v1",
+    "modelId": "gemini-3-flash-preview",
+    "taskAssignment": "default"
+  },
+  {
     "id": "1770877646156",
     "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
     "baseUrl": "https://hiapi.online/v1",
     "modelId": "grok-4",
     "taskAssignment": "analysis"
-  },
-  {
-    "id": "1770877687988",
-    "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
-    "baseUrl": "https://hiapi.online/v1",
-    "modelId": "gemini-3-flash-preview",
-    "taskAssignment": "default"
   }
 ]
