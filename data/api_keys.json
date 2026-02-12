@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1769404700103",
+    "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
+    "baseUrl": "https://hiapi.online/v1",
+    "modelId": "gemini-3-flash-search",
+    "taskAssignment": "search"
+  },
+  {
+    "id": "1770877646156",
+    "apiKey": "",
+    "baseUrl": "",
+    "modelId": "gemini-1.5-pro",
+    "taskAssignment": "default"
+  }
+]
