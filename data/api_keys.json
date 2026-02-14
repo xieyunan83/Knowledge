@@ -10,7 +10,7 @@
     "id": "1770877646156",
     "apiKey": "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",
     "baseUrl": "https://api.siliconflow.cn/v1",
-    "modelId": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+    "modelId": "deepseek-ai/DeepSeek-V3",
     "taskAssignment": "analysis"
   }
 ]
