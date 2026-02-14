@@ -2,8 +2,8 @@
   {
     "id": "1769404700103",
     "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
-    "baseUrl": "https://hiapi.online/v1",
-    "modelId": "gemini-3-flash-preview",
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "modelId": "google/gemini-pro-1.5",
     "taskAssignment": "default"
   },
   {
