@@ -30,7 +30,7 @@
   {
     "id": "1771067875566",
     "apiKey": "",
-    "baseUrl": "",
+    "baseUrl": "native",
     "modelId": "gemini-1.5-pro",
     "taskAssignment": "default"
   }
