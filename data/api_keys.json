@@ -15,9 +15,9 @@
   },
   {
     "id": "1771056923424",
-    "apiKey": "",
+    "apiKey": "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",
     "baseUrl": "https://openrouter.ai/api/v1",
-    "modelId": "meta-llama/llama-3.1-70b-instruct",
+    "modelId": "meta-llama/llama-3.3-70b-instruct",
     "taskAssignment": "email"
   }
 ]
