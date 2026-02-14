@@ -1,17 +1,10 @@
 [
   {
     "id": "1769404700103",
-    "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
+    "apiKey": "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",
     "baseUrl": "https://openrouter.ai/api/v1",
-    "modelId": "google/gemini-pro-1.5",
+    "modelId": "google/gemini-3-flash-preview",
     "taskAssignment": "default"
-  },
-  {
-    "id": "1770877646156",
-    "apiKey": "sk-tjcgnzztpechoahovipfrpxhfxuilxtvxgrjifgikirdybpe",
-    "baseUrl": "https://api.siliconflow.cn/v1",
-    "modelId": "deepseek-ai/DeepSeek-V3",
-    "taskAssignment": "analysis"
   },
   {
     "id": "1771050987638",
