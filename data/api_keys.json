@@ -12,5 +12,12 @@
     "baseUrl": "https://api.siliconflow.cn/v1",
     "modelId": "deepseek-ai/DeepSeek-V3",
     "taskAssignment": "analysis"
+  },
+  {
+    "id": "1771050987638",
+    "apiKey": "",
+    "baseUrl": "",
+    "modelId": "gemini-1.5-pro",
+    "taskAssignment": "default"
   }
 ]
