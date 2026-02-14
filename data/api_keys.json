@@ -9,8 +9,8 @@
   {
     "id": "1770877646156",
     "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
-    "baseUrl": "https://hiapi.online/v1",
-    "modelId": "grok-4",
+    "baseUrl": "https://integrate.api.nvidia.com/v1",
+    "modelId": "meta/llama-3.2-90b-vision-instruct",
     "taskAssignment": "analysis"
   }
 ]
