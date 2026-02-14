@@ -12,5 +12,12 @@
     "baseUrl": "https://openrouter.ai/api/v1",
     "modelId": "meta-llama/llama-3.3-70b-instruct",
     "taskAssignment": "analysis"
+  },
+  {
+    "id": "1771056875960",
+    "apiKey": "",
+    "baseUrl": "",
+    "modelId": "gemini-1.5-pro",
+    "taskAssignment": "default"
   }
 ]
