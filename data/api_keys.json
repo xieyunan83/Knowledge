@@ -29,9 +29,9 @@
   },
   {
     "id": "1771067875566",
-    "apiKey": "",
+    "apiKey": "AIzaSyCC4Vnn7WPAQobDXuJE5wIQYwDqYBlcuhU",
     "baseUrl": "native",
-    "modelId": "gemini-1.5-pro",
+    "modelId": "gemini-2.5-flash",
     "taskAssignment": "default"
   }
 ]
