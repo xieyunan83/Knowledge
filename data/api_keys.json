@@ -1,28 +1,28 @@
 [
   {
     "id": "1769404700103",
-    "apiKey": "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",
+    "apiKey": "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",
     "baseUrl": "https://openrouter.ai/api/v1",
     "modelId": "google/gemini-3-flash-preview",
     "taskAssignment": "default"
   },
   {
     "id": "1771050987638",
-    "apiKey": "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",
+    "apiKey": "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",
     "baseUrl": "https://openrouter.ai/api/v1",
     "modelId": "meta-llama/llama-3.3-70b-instruct",
     "taskAssignment": "analysis"
   },
   {
     "id": "1771056923424",
-    "apiKey": "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",
+    "apiKey": "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",
     "baseUrl": "https://openrouter.ai/api/v1",
     "modelId": "meta-llama/llama-3.3-70b-instruct",
     "taskAssignment": "email"
   },
   {
     "id": "1771067493748",
-    "apiKey": "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",
+    "apiKey": "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",
     "baseUrl": "https://openrouter.ai/api/v1",
     "modelId": "google/gemma-3-27b-it:free",
     "taskAssignment": "keywords"
