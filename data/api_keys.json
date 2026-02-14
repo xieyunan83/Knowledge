@@ -2,15 +2,15 @@
   {
     "id": "1771050987638",
     "apiKey": "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",
-    "baseUrl": "https://openrouter.ai/api/v1",
-    "modelId": "meta-llama/llama-3.3-70b-instruct",
+    "baseUrl": "https://hiapi.online/v1",
+    "modelId": "gemini-1.5-pro",
     "taskAssignment": "analysis"
   },
   {
     "id": "1771056923424",
     "apiKey": "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",
     "baseUrl": "https://openrouter.ai/api/v1",
-    "modelId": "meta-llama/llama-3.3-70b-instruct",
+    "modelId": "google/gemma-3-27b-it:free",
     "taskAssignment": "email"
   },
   {
