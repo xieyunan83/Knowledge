@@ -1,5 +1,13 @@
 [
   {
+    "id": "1771086580302",
+    "apiKey": "",
+    "baseUrl": "native",
+    "modelId": "gemini-1.5-pro",
+    "taskAssignment": "default",
+    "priority": 2
+  },
+  {
     "id": "1771050987638",
     "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
     "baseUrl": "https://hiapi.online/v1",
