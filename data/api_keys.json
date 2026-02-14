@@ -14,10 +14,10 @@
     "taskAssignment": "analysis"
   },
   {
-    "id": "1771056875960",
+    "id": "1771056923424",
     "apiKey": "",
-    "baseUrl": "",
-    "modelId": "gemini-1.5-pro",
-    "taskAssignment": "default"
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "modelId": "meta-llama/llama-3.1-70b-instruct",
+    "taskAssignment": "email"
   }
 ]
