@@ -23,8 +23,8 @@
   {
     "id": "1771067493748",
     "apiKey": "",
-    "baseUrl": "",
-    "modelId": "gemini-1.5-pro",
-    "taskAssignment": "default"
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "modelId": "google/gemini-pro-1.5",
+    "taskAssignment": "keywords"
   }
 ]
