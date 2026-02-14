@@ -9,8 +9,8 @@
   {
     "id": "1770877646156",
     "apiKey": "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",
-    "baseUrl": "https://integrate.api.nvidia.com/v1",
-    "modelId": "meta/llama-3.3-70b-instruct",
+    "baseUrl": "https://api.siliconflow.cn/v1",
+    "modelId": "meta-llama/Meta-Llama-3.1-70B-Instruct",
     "taskAssignment": "analysis"
   }
 ]
