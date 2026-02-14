@@ -1,9 +1,9 @@
 [
   {
     "id": "1771050987638",
-    "apiKey": "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",
+    "apiKey": "sk-8NFibwTZb4oWMO1E8qHm5jQtfFNd5N5bJ6aCYmoHR8kUBnKK",
     "baseUrl": "https://hiapi.online/v1",
-    "modelId": "gemini-1.5-pro",
+    "modelId": "grok-4",
     "taskAssignment": "analysis"
   },
   {
